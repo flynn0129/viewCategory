@@ -9,6 +9,20 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```
+#import <viewCategory/UIView+viewCategory.h>
+```
+
+```
+    UIView *customView = [[UIView alloc]init];
+    customView.X = 10;
+    customView.Y = 100;
+    customView.Width = 100;
+    customView.Height = 100;
+    [self.view addSubview:customView];
+```
+
+
 ## Requirements
 
 ## Installation
