@@ -1,0 +1,6 @@
+framework module Pods_viewCategory_Tests {
+  umbrella header "Pods-viewCategory_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

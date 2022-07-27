@@ -1,0 +1,16 @@
+PODS:
+  - viewCategory (0.1.0)
+
+DEPENDENCIES:
+  - viewCategory (from `../`)
+
+EXTERNAL SOURCES:
+  viewCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  viewCategory: a6692f61cff4a84567331b5fb5657622b73e8cfd
+
+PODFILE CHECKSUM: e214cfb68155a1389621421cc5cb923b19cbd159
+
+COCOAPODS: 1.11.3

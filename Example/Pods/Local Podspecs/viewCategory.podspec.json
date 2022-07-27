@@ -1,0 +1,22 @@
+{
+  "name": "viewCategory",
+  "version": "0.1.0",
+  "summary": "A short description of viewCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/flynn0129/viewCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "flynn0129": "563595282@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/flynn0129/viewCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "viewCategory/Classes/**/*"
+}

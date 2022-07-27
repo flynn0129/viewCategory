@@ -1,0 +1,6 @@
+framework module viewCategory {
+  umbrella header "viewCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
