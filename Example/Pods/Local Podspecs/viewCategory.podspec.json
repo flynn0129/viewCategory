@@ -1,8 +1,8 @@
 {
   "name": "viewCategory",
   "version": "0.1.0",
-  "summary": "A short description of viewCategory.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "方便在项目中直接访问控件的frame",
+  "description": "方便在项目中直接访问控件的frame",
   "homepage": "https://github.com/flynn0129/viewCategory",
   "license": {
     "type": "MIT",

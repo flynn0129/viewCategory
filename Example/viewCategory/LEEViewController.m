@@ -7,7 +7,7 @@
 //
 
 #import "LEEViewController.h"
-
+#import <viewCategory/UIView+viewCategory.h>
 @interface LEEViewController ()
 
 @end
@@ -17,13 +17,13 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    
+    UIView *customView = [[UIView alloc]init];
+    customView.X = 50;
+    customView.Y = 100;
+    customView.Width = 100;
+    customView.Height = 100;
+    [self.view addSubview:customView];
 }
 
 @end

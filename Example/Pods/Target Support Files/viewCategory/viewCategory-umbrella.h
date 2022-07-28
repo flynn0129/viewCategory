@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIView+viewCategory.h"
 
 FOUNDATION_EXPORT double viewCategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char viewCategoryVersionString[];
